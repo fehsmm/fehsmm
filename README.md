@@ -13,7 +13,7 @@ Meu GitHub é o meu registro real. Sem máscaras, sem perfeição, só evoluçã
 ---
 
 ### 🛠️ Languages and Tools  
-<img src="https://skillicons.dev/icons?i=cs,java,js,html,css,dotnet,angular,github" />
+<img src="https://skillicons.dev/icons?i=java,cs,js,html,css,dotnet,angular,github" />
 
 ---
 
