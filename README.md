@@ -4,10 +4,13 @@
 
 ---
 
-### ✨ Sobre mim  
+### ✨🌱 Sobre mim  
 Entrei no mundo da programação do zero e descobri que aprender é um caminho cheio de curvas, pausas e recomeços.  
 Mas também cheio de pequenas vitórias. Já travei, desanimei e recomecei, mas nunca parei.  
 Hoje estou focada em me tornar uma desenvolvedora, construindo meu caminho com paciência, consistência e muita prática.  
+Sou curiosa, determinada, realista, prática e direta.  
+Estudo mesmo cansada, mesmo depois do trabalho e mesmo com rotina cheia.  
+Cada dia aprendo um pouco mais.
 Meu GitHub é o meu registro real. Sem máscaras, sem perfeição, só evolução.
 
 ---
@@ -52,18 +55,6 @@ Projeto criado para treinar lógica de programação, uso de matrizes, validaç�
 - Criar APIs mais organizadas aplicando boas práticas.  
 - Desenvolver projetos completos para o meu portfólio.  
 - Evoluir no Front End para acompanhar o backend.  
-
----
-
-## 🌱 Sobre mim
-
-Sou curiosa, determinada, realista, prática e direta.  
-Gosto de explicações honestas e sem enrolação.  
-Estudo mesmo cansada, mesmo depois do trabalho e mesmo com rotina cheia.  
-Cada dia aprendo um pouco mais.
-
-Não busco ser perfeita. Busco ser melhor do que ontem.  
-Estou construindo minha carreira tijolo por tijolo. Sem pressa, mas sem parar.
 
 ---
 
