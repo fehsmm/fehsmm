@@ -1,62 +1,64 @@
 # 🌿✨ Fernanda Moura
 
-### 💻 Junior Developer in Progress | C# • Java • SQL • Angular  
+### 💻 Desenvolvedora Java Fullstack | Spring Boot • SQL • Angular
 
 ---
 
-### ✨🌱 Sobre mim  
-Entrei no mundo da programação do zero e descobri que aprender é um caminho cheio de curvas, pausas e recomeços.  
-Mas também cheio de pequenas vitórias. Já travei, desanimei e recomecei, mas nunca parei.  
-Hoje estou focada em me tornar uma desenvolvedora, construindo meu caminho com paciência, consistência e muita prática.  
-Sou curiosa, determinada, realista, prática e direta.  
-Estudo mesmo cansada, mesmo depois do trabalho e mesmo com rotina cheia.  
-Cada dia aprendo um pouco mais.
-Meu GitHub é o meu registro real. Sem máscaras, sem perfeição, só evolução.
+### ✨ Sobre mim
+
+Sou desenvolvedora **Java Fullstack** e atualmente faço estágio na **Critical TechWorks**, joint venture do **BMW Group** com a Critical Software, em Lisboa. Lá trabalho no departamento de DevOps, desenvolvendo ferramentas que apoiam as plataformas de vendas e de jornada do cliente da BMW.
+
+Antes da programação, passei 4 anos na **Accenture** como analista de Trust & Safety. Trago dessa experiência atenção aos detalhes, análise de problemas e trabalho com processos e prazos reais.
+
+Fiz a transição de carreira pelo curso intensivo de programação no **ISCTE – Instituto Universitário de Lisboa**. Sou curiosa, prática e direta, e gosto de entender o porquê das coisas, não só fazer funcionar.
 
 ---
 
-### 🛠️ Languages and Tools  
-<img src="https://skillicons.dev/icons?i=java,cs,js,html,css,dotnet,angular,github" />
+### 🛠️ Tecnologias
+
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,js,html,css,angular,cs,dotnet,git,github,idea" />
 
 ---
 
-## 📂 Projetos Principais
+## 📂 Projetos
 
-### 🔧 API_Receitas *(em construção)*  
-Projeto criado para treinar CRUDs, Repository Pattern, camadas (Controllers e Services) e integração com SQL Server.  
-Ainda em desenvolvimento. Faltam partes da implementação e correções que serão ajustadas aos poucos.  
-> Foco: backend, boas práticas e organização do código.
+### 🐱 Base de Gatos
+Aplicação web para o **MEG – Movimento Esterilização de Gatos de Lisboa**, desenvolvida em grupo como projeto final do curso. Tem perfis de admin, voluntário e adotante, gestão de gatos e medicação, escala de turnos, pedidos de adoção e doações via Stripe.
+> **Stack:** Java 17 · Spring Boot · Spring Security · JPA · MySQL · JSP
+> **Minha parte:** backend dos voluntários, modelagem das entidades JPA, gestão de turnos, módulo de medicação e refatoração da arquitetura em camadas.
+
+[🔗 Ver repositório](https://github.com/fehsmm/base_gatos)
+
+---
+
+### 🍲 API_Receitas
+API REST para gestão de receitas, com CRUD completo, Repository Pattern e arquitetura em camadas (Controllers e Services), integrada com SQL Server.
+> **Foco:** backend, boas práticas e organização do código.
+
 [🔗 Ver repositório](https://github.com/fehsmm/ProjetoFinal_UaiQTremSimples)
 
 ---
 
-### 📆 MySchedly *(em construção)*  
-Sistema de agendamentos desenvolvido para praticar C#, orientação a objetos, herança, perfis de usuário e operações básicas de CRUD.  
-O professor testou e algumas partes quebraram. Ainda estou revisando e melhorando o projeto.  
-> Foco: reforçar lógica, classes e conexão com banco.
+### 📆 MySchedly
+Sistema de agendamentos em C#, com orientação a objetos, herança, perfis de usuário e operações de CRUD com banco de dados.
+> **Foco:** lógica, modelagem de classes e persistência.
 
 ---
 
-## 🎮 Projeto de Lógica
+### 🎮 Jogo da Velha (C#)
+Jogo em console com uso de matrizes, validação de jogadas e verificação de vitória.
 
-
-### Jogo da Velha (C#)  
-Projeto criado para treinar lógica de programação, uso de matrizes, validação de jogadas e checagem de vitória.  
-É um dos meus primeiros projetos completos e representa minha evolução inicial na programação.
 [🔗 Ver repositório](https://github.com/fehsmm/TicTacToe-Game)
 
-
 ---
 
-## 🎯 Objetivos
+## 🎯 No momento
 
-- Conseguir minha primeira vaga como Junior Developer.  
-- Fortalecer minha base em Java, C# e SQL.  
-- Criar APIs mais organizadas aplicando boas práticas.  
-- Desenvolver projetos completos para o meu portfólio.  
-- Evoluir no Front End para acompanhar o backend.  
+- Em busca de vaga como **Desenvolvedora Java Júnior**
+- Aprofundando Spring Boot, APIs REST e testes
+- Evoluindo no frontend com Angular
 
 ---
 
 ## 📬 Contato
-🔗 LinkedIn: https://www.linkedin.com/in/fehsmm/
+🔗 [LinkedIn](https://www.linkedin.com/in/fehsmm/)
